@@ -1,0 +1,3 @@
+[submodule "Frameworks/IntAirAct"]
+	path = Frameworks/IntAirAct
+	url = http://github.com/ase-lab/IntAirAct.git
